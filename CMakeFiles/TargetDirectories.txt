@@ -1,0 +1,2 @@
+/home/tom/bin/test/EasyPR-master/CMakeFiles/easypr.dir
+/home/tom/bin/test/EasyPR-master/CMakeFiles/easypr_test.dir
